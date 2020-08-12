@@ -14,8 +14,6 @@ También pueden subir ilustraciones independientes y no todos los cuentos tienen
 ![](src/img/03.png)
 
 ## Login
-
-Crea tu cuenta o ingresa desde Google o Facebook
 ![](src/img/04.png)
 ![](src/img/05.png)
 
