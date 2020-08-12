@@ -9,7 +9,6 @@
 		"jest"
 	],
 	"license": "MIT",
-	"homepage": "https://jimenamv.github.io/microcuentosilustrados",
 	"scripts": {
 		"htmlhint": "htmlhint dist/*.html ",
 		"eslint": "eslint --ext .js src/ test/",
