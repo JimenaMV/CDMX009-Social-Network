@@ -75,6 +75,7 @@ export default () => {
             <button class="modal-close is-large" aria-label="close"  id="btnCloseNoGooFbk"></button>
     </div>
 </div>
+
     `
     navBar.style.display = 'none'
     return viewSignIn

@@ -1,5 +1,21 @@
+/* import { root } from "/main.js";
+import { viewLogin } from '/main.js'
+import { viewSign } from '/main.js'
+import { renderHomeView } from "./views/home.js" */
 import { renderPostView } from "./views/post.js"
+//import { renderProfileView } from "./views/profile.js"
+//import { renderLoginView } from "./views/login.js"
+/* import { renderExitView } from "./views/exit.js"
+import { userObserverProfile } from "./views/profile.js" */
 import { principalView } from "../main.js";
+
+/* export const components = {
+    home: renderHomeView,
+    post: renderPostView,
+    profile: renderProfileView,
+    exit: renderExitView
+}; */
+
 
 //Instanciar Firestore
 const db = firebase.firestore();
