@@ -5,7 +5,7 @@ export default () => {
     
     <div class="slider">
     <ul>
-         <li><img src="../img/slider1.png" alt=""></li>
+         <li><img src="../img/01.png" alt=""></li>
          <li><img src="../img/slider2.png" alt=""></li>
          <li><img src="../img/slider3.png" alt=""></li>
     </ul>
