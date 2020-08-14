@@ -1,14 +1,13 @@
 import { navBar } from "../main.js";
 
 export default () => {
-
-    const principal = `
+  const principal = `
     
     <div class="slider">
     <ul>
-         <li><img src="/img/slider1.png" alt=""></li>
-         <li><img src="/img/slider2.png" alt=""></li>
-         <li><img src="/img/slider3.png" alt=""></li>
+         <li><img src="../img/slider1.png" alt=""></li>
+         <li><img src="../img/slider2.png" alt=""></li>
+         <li><img src="../img/slider3.png" alt=""></li>
     </ul>
 
     </div>
@@ -19,15 +18,14 @@ export default () => {
                 <p class="title has-text-centered has-text-warning title is-6" id='instructions'><em>*Escribe un microcuento*<br>*Ilustra un microcuento*<br>++Escribe e ilustra++</em></p>
                 <div class="img-enter centerItem">
                     <figure>
-                        <img src="/img/ojo.png" id="goLogin" alt="">
+                        <img src="../img/ojo.png" id="goLogin" alt="">
                     </figure>
                 </div> 
             </div>
         </div>
-    `
+    `;
 
+  navBar.style.display = "none";
 
-     navBar.style.display = 'none'
-
-    return principal
-}
+  return principal;
+};
