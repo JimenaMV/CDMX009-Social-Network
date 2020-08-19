@@ -18,7 +18,7 @@ export default () => {
                 <p class="title has-text-centered has-text-warning title is-6" id='instructions'><em>*Escribe un microcuento*<br>*Ilustra un microcuento*<br>++Escribe e ilustra++</em></p>
                 <div class="img-enter centerItem">
                     <figure>
-                        <img src="../img/ojo.png" id="goLogin" alt="">
+                        <img src="./img/ojo.png" id="goLogin" alt="">
                     </figure>
                 </div> 
             </div>
